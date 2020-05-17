@@ -1,0 +1,21 @@
+{
+  "name": "gulp-boilerplate",
+  "version": "0.0.1",
+  "description": "A boilerplate for gulp projects",
+  "main": "gulpfile.js",
+  "repository": "https://github.com/r3valkyrie/gulp-boilerplate.git",
+  "author": "valkyrie <valkyrie@r3valkyrie.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "del": "^5.1.0",
+    "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-jshint": "^2.1.0",
+    "gulp-pug": "^4.0.1",
+    "gulp-sass": "^4.1.0",
+    "gulp-terser": "^1.2.0",
+    "jshint": "^2.11.1",
+    "node-sass": "^4.14.1"
+  }
+}
